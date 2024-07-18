@@ -21,4 +21,8 @@ def id_pv(name: str):
     return {f'massage': '{name}'}
 
 
+@app.get('/first-name/ number')
+def num(number: Optional[int] = None):
+    return {'number':f'{number}'}
+
 
