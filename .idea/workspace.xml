@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbcd958e-d135-4daa-9d1d-93afdeaadbff" name="Changes" comment="my python projects: creating a GitHub account">
-      <change afterPath="$PROJECT_DIR$/SQLAlchemy.py" afterDir="false" />
+    <list default="true" id="fbcd958e-d135-4daa-9d1d-93afdeaadbff" name="Changes" comment="main.py : Installing DBNavigator">
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alchemy.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "F-Shams"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/F-Shams/pythonProject1.git",
+    "accountId": "01575ca3-7630-4330-80c1-004b0b3f29e5"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -35,6 +48,7 @@
   "keyToString": {
     "Python.my python projects.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
@@ -62,7 +76,14 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۰۱" />
       <updated>1721301421984</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL‎−۰۰۰۰۲" summary="main.py : Installing DBNavigator">
+      <option name="closed" value="true" />
+      <created>1721900961135</created>
+      <option name="number" value="LOCAL‎−۰۰۰۰۲" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۰۲" />
+      <updated>1721900961135</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -78,6 +99,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="my python projects: creating a GitHub account" />
-    <option name="LAST_COMMIT_MESSAGE" value="my python projects: creating a GitHub account" />
+    <MESSAGE value="main.py : Installing DBNavigator" />
+    <option name="LAST_COMMIT_MESSAGE" value="main.py : Installing DBNavigator" />
   </component>
 </project>
