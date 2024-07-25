@@ -22,12 +22,18 @@ animal2 = Animal(name='donkey', color='black')
 
 
 Session = sessionmaker(bind=engine)
-session = Session
+session = Session()
+
 session.add(animal0)
 session.add_all([animal1, animal2])
 
-to print animals
-animals = session.
+animals = session.query(Animal).all()
+for animal in animals:
+    print(animal.name, animal.color)
+
+
+
+
 
 
 
