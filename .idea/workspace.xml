@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbcd958e-d135-4daa-9d1d-93afdeaadbff" name="Changes" comment="alchemy.py : Making a table">
+    <list default="true" id="fbcd958e-d135-4daa-9d1d-93afdeaadbff" name="Changes" comment="alchemy.py : Stocking with my db in my DB Browser">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/alchemy.py" beforeDir="false" afterPath="$PROJECT_DIR$/alchemy.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +98,21 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۰۴" />
       <updated>1721902825235</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL‎−۰۰۰۰۵" summary="alchemy.py : Making a table">
+      <option name="closed" value="true" />
+      <created>1721903992242</created>
+      <option name="number" value="LOCAL‎−۰۰۰۰۵" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۰۵" />
+      <updated>1721903992242</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۰۶" summary="alchemy.py : Stocking with my db in my DB Browser">
+      <option name="closed" value="true" />
+      <created>1721906522556</created>
+      <option name="number" value="LOCAL‎−۰۰۰۰۶" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۰۶" />
+      <updated>1721906522556</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -116,6 +131,7 @@
     <MESSAGE value="main.py : Installing DBNavigator" />
     <MESSAGE value="alchemy.py : Installing SQLAlchemy and start a project" />
     <MESSAGE value="alchemy.py : Making a table" />
-    <option name="LAST_COMMIT_MESSAGE" value="alchemy.py : Making a table" />
+    <MESSAGE value="alchemy.py : Stocking with my db in my DB Browser" />
+    <option name="LAST_COMMIT_MESSAGE" value="alchemy.py : Stocking with my db in my DB Browser" />
   </component>
 </project>
