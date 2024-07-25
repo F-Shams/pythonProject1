@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbcd958e-d135-4daa-9d1d-93afdeaadbff" name="Changes" comment="main.py : Installing DBNavigator">
+    <list default="true" id="fbcd958e-d135-4daa-9d1d-93afdeaadbff" name="Changes" comment="alchemy.py : Installing SQLAlchemy and start a project">
       <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/alchemy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +84,14 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۰۲" />
       <updated>1721900961135</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL‎−۰۰۰۰۳" summary="alchemy.py : Installing SQLAlchemy and start a project">
+      <option name="closed" value="true" />
+      <created>1721901751458</created>
+      <option name="number" value="LOCAL‎−۰۰۰۰۳" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۰۳" />
+      <updated>1721901751458</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,6 +108,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="my python projects: creating a GitHub account" />
     <MESSAGE value="main.py : Installing DBNavigator" />
-    <option name="LAST_COMMIT_MESSAGE" value="main.py : Installing DBNavigator" />
+    <MESSAGE value="alchemy.py : Installing SQLAlchemy and start a project" />
+    <option name="LAST_COMMIT_MESSAGE" value="alchemy.py : Installing SQLAlchemy and start a project" />
   </component>
 </project>
