@@ -32,6 +32,8 @@ for animal in animals:
     print(animal.name, animal.color)
 
 
+to_filter = session.query(Animal).filter_by(color='black')
+print(to_filter)
 
 
 
