@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbcd958e-d135-4daa-9d1d-93afdeaadbff" name="Changes" comment="alchemy.py : Finish my example">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alchemy.py" beforeDir="false" afterPath="$PROJECT_DIR$/alchemy.py" afterDir="false" />
-    </list>
+    <list default="true" id="fbcd958e-d135-4daa-9d1d-93afdeaadbff" name="Changes" comment="alchemy.py : filtering by Alchemy" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -133,7 +130,14 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۰۹" />
       <updated>1721935563139</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL‎−۰۰۰۱۰" summary="alchemy.py : filtering by Alchemy">
+      <option name="closed" value="true" />
+      <created>1721999568658</created>
+      <option name="number" value="LOCAL‎−۰۰۰۱۰" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۱۰" />
+      <updated>1721999568658</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,6 +159,7 @@
     <MESSAGE value="alchemy.py : Stocking with my db in my DB Browser" />
     <MESSAGE value="alchemy.py : Making an example for my table" />
     <MESSAGE value="alchemy.py : Finish my example" />
-    <option name="LAST_COMMIT_MESSAGE" value="alchemy.py : Finish my example" />
+    <MESSAGE value="alchemy.py : filtering by Alchemy" />
+    <option name="LAST_COMMIT_MESSAGE" value="alchemy.py : filtering by Alchemy" />
   </component>
 </project>
