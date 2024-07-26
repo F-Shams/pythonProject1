@@ -32,9 +32,12 @@ for animal in animals:
     print(animal.name, animal.color)
 
 
-to_filter = session.query(Animal).filter_by(color='black')
-print(to_filter)
+filtered_animals = session.query(Animal).filter_by(color='black')
+for animal in filtered_animals:
+    print(f"{animal.name} and {animal.color}")
 
+to_filter2 = session.query(Animal).filter_by(name='dog')
+print(to_filter2)
 
 
 
